@@ -7,4 +7,4 @@ Original file is located at
     https://colab.research.google.com/gist/BenKohn2004/06818144cf0da864f1c4207f8954554f/python-script-to-load.ipynb
 """
 
-display('This script ran.')
+print('This script ran.')
